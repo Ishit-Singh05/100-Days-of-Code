@@ -1,0 +1,26 @@
+CodeChef Problem Solving
+
+#include <stdio.h>
+
+int main(void) {
+	int a,b;
+	scanf("%d",&a);
+	b=a*2;
+	printf("%d",b);
+}
+
+Chef and Brain Speed
+
+#include <stdio.h>
+
+int main() {
+    int x, y;
+    scanf("%d %d", &x, &y);
+    if(x<y){
+        printf("Yes");
+    }
+    else{
+        printf("No");
+    }
+}
+
