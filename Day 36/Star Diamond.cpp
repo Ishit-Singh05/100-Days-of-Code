@@ -8,7 +8,7 @@ void nStarDiamond(int n) {
         //stars
         for(int j=0;j<2*i+1;j++){
             cout<<"*";
-        }
+        } 
         //spaces
         for (int j = 0; j < n - i - 1; j++) {
             cout << " ";
@@ -28,6 +28,8 @@ void nStarDiamond(int n) {
         for(int j=0;j<i;j++){
             cout<<" ";
         }
+    }
+        
 
         cout<<endl;
     }
