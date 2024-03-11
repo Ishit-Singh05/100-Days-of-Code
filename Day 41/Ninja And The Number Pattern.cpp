@@ -1,3 +1,4 @@
+
 void getNumberPattern(int n) {
     // Write your code here.
     for(int i=0;i<2*n-1;i++){
