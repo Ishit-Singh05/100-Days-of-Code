@@ -10,5 +10,6 @@ void getStarPattern(int n) {
             }
         }
         cout<<endl;
+        
     }
 }
