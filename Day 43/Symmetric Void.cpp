@@ -7,6 +7,7 @@ void symmetry(int n) {
         for(int j=0;j<n-i;j++){
             cout<<"* ";
         }
+        
         //spaces
         for(int j=0;j<spaces;j++){
             cout<<"  ";
