@@ -1,5 +1,5 @@
 void symmetry(int n) {
-    // Write your code here.
+
     int spaces=2*n-2;
     for(int i=1;i<=2*n-1;i++){
         int stars=i;
