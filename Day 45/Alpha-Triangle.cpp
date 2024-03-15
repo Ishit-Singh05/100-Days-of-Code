@@ -7,5 +7,4 @@ void alphaTriangle(int n) {
         }
         cout<<endl;
     }
-   
 }
