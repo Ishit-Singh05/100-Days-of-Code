@@ -1,6 +1,5 @@
 bool palindrome(int n)
 {
-    // Write your code here
     int reverse=0;
     int original =n;
     while(n>0){
