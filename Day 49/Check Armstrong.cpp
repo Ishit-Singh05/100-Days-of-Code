@@ -1,6 +1,5 @@
 #include <math.h>
 bool checkArmstrong(int n){
-	//Write your code here
 	int count=0;
 	int original=n;
 	int temp=n;
