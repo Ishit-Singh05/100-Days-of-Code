@@ -2,7 +2,6 @@
 using namespace std;
 
 int main() {
-	// Write your code here
 	char ch;
 	cin>>ch;
 	if(ch>='a' &&ch<='z'){
