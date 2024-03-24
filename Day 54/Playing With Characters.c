@@ -12,8 +12,6 @@ scanf("%[^\f]s", sen);
 
 printf("%c\n",c);
 printf("%s",ch);
-printf("%s",sen);
-
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
+printf("%s",sen);  
     return 0;
 }
