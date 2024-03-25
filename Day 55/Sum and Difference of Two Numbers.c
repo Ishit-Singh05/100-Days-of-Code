@@ -15,7 +15,6 @@ int main()
    
    printf("%d %d\n",sum,dif);
    printf("%.1f %.1f\n",sumf,difs);
-     
     
     return 0;
 }
