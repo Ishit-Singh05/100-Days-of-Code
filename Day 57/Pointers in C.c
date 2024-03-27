@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 void update(int *a,int *b) {
-    // Complete this function 
     int sum=*a+*b;
     int dif;
     if(*a>*b){
