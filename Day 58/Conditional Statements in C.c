@@ -10,8 +10,6 @@
 
 char* readline();
 
-
-
 int main()
 {
     char* n_endptr;
@@ -19,8 +17,6 @@ int main()
     int n = strtol(n_str, &n_endptr, 10);
 
     if (n_endptr == n_str || *n_endptr != '\0') { exit(EXIT_FAILURE); }
-
-    // Write Your Code Here
     switch (n) {
     case 1:
     printf("one");
